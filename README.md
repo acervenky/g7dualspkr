@@ -1,2 +1,3 @@
-# g7dualspkr
-Dual Speaker Mod For LG G7
+# Dual Speaker Mod For LG G7
+## Changelog
+v1 - Initial Release

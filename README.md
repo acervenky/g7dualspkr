@@ -1,3 +1,3 @@
-# Dual Speaker Mod For LG G7
-## Changelog
+Changelog:
+
 v1 - Initial Release
